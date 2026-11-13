@@ -1,0 +1,6 @@
+puremacro>=6.4
+numpy
+pandas
+scipy
+matplotlib
+yfinance
